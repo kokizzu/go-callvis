@@ -129,7 +129,7 @@ Usage of go-callvis:
   -tests
     	Include test code.
   -algo string
-        Use specific algorithm for package analyzer: static, cha or rta (default "static")
+        Use specific algorithm for package analyzer: static, cha, rta or vta (default "static")
   -version
     	Show version and exit.
 ```
